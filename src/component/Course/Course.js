@@ -1,19 +1,28 @@
 import React from 'react';
+import './Course.css'
 
 /*================================Course==============================*/
 const Course = (props) => {
-    const { name, learning, reg, fee } = props.course;
+    const { name, img, tournament, date, country } = props.course;
     const courseStyle = {
-        border: '3px solid goldenrod',
+        border: '1px solid grey',
         padding: '10px',
-        borderRadious: '10px'
+        borderRadius: '10px',
+        backgroundColor: 'lavender',
+        boxShadow: "10px 10px 5px grey",
+        margin: "5px"
+
+
     }
     return (
         <div style={courseStyle}>
-            <h2>Cource Name: {name}</h2>
-            <h4>Learning: {learning}</h4>
-            <h4>Registration: {reg}</h4>
-            <h4>Fee: {fee}</h4>
+            <img src={img} style={{ width: "300px" }} />
+            <h2 style={{ fontWeight: 'bold' }}>Name: {name}</h2>
+            <h4 style={{ fontWeight: "inherit" }}>Tournament: {tournament}</h4>
+            <br></br>
+            <h4>Date: {date}</h4>
+            <h4 style={{ fontWeight: "bold" }}>Country: {country}</h4>
+            <button style={{ backgroundColor: "DarkOrange", color: "white", fontWeight: "bold", borderRadius: "5px", padding: '5px' }}>Enroll Now</button>
         </div>
     );
 };

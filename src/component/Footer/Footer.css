@@ -1,5 +1,67 @@
-.footer{
-    padding: 20px;
-    margin-left: 15px;
+.button{
+background-color: black;
+margin-top: 50px;
+
+    /* background-image: linear-gradient(to right, blue , white); */
     
 }
+
+.footer{
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    width: 50px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 25px;
+    
+}
+
+.about-name{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+    
+}
+
+.about{
+    margin-left: 100px;
+    text-align: left;
+}
+
+.about-name p{
+    margin-left: 30px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+.contuct-us{
+    margin-left: 800px;
+}
+
+.contuct-us a{
+    text-decoration: none;
+    padding-left: 10px;
+    display: block;
+    padding-bottom: 10px;
+    
+}
+
+.contuct-us a:hover{
+    background-color: grey;
+    color: honeydew;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.footer-p{
+    background-color: black;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.footer-p:hover{
+    color: white;
+}
+ 

@@ -1,37 +1,86 @@
 [
     {
-        "name": "Web Development",
-        "learning": "HTML, CSS, Javascript, React JS, Node JS",
-        "reg": "10th janu- 20janu",
-        "fee": 700,
-        "img": "https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg"
+        "name": "Football",
+        "tournament": "Copa America",
+        "date": "10th janu- 20janu",
+        "country": "Qatar",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWf-r9DyqPk5ezg-AFj12FSuK0Y-6aNhcaA&usqp=CAU"
     },
     {
-        "name": "Java Language",
-        "learning": "softwares interface,  complex data, create applications, graphic user interfaces",
-        "reg": "10th janu- 20janu",
-        "fee": 500,
-        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201705/647_052317015455.png?size=770:433"
+        "name": "Basketball",
+        "tournament": "FIBA",
+        "reg": "10th Feb- 20Feb",
+        "fee": "Germany",
+        "img": "https://news.cgtn.com/news/2021-07-13/Beaten-by-Australia-USA-suffer-2nd-straight-Olympic-exhibitions-loss-11RGvst8AQ8/img/41966b353c4446228d743c0f0aa539c6/41966b353c4446228d743c0f0aa539c6.jpeg"
     },
     {
-        "name": "Python Language",
-        "learning": "Multiple Programming Paradigms,  Web Testing, Data Extraction, Artificial Intelligence (AI) and Data Science Researches, Web Application and Internet Development, ",
-        "reg": "10th janu- 20janu",
-        "fee": 800,
-        "img": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/python-programming-language.jpg"
+        "name": "Baseball",
+        "tournament": "American League",
+        "date": "01th Des- 10Des",
+        "country": "Russia",
+        "img": "https://www.metroparkstacoma.org/wp-content/uploads/2021/03/DSC9198-1-web-res-crop-1615234213-2000x959.jpg"
     },
     {
-        "name": "C++ Language",
-        "learning": "develop operating systems,   browsers, games, so on",
-        "reg": "10th janu- 20janu",
-        "fee": 500,
-        "img": "https://coursemarks.com/wp-content/uploads/2020/11/2776488_6a4e.jpg"
+        "name": "Badminton",
+        "tournament": "World Grand Prix Finals",
+        "date": "12th March- 20April",
+        "country": "Colombia",
+        "img": "https://www.badminton-point.com/media/wysiwyg/lardesports/home/LS_Page_Home_ImagesSports_Badminton.jpg"
     },
     {
-        "name": "Javascript Language",
-        "learning": "Angular,  React, Vue",
-        "reg": "10th janu- 20janu",
-        "fee": 400,
-        "img": "https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg"
+        "name": "Volleyball",
+        "tournament": "FIVB World Cup",
+        "date": "10th Aug- 20 Oct",
+        "country": "New Zealand",
+        "img": "https://us.123rf.com/450wm/tnn103eda/tnn103eda1610/tnn103eda161000002/65711585-professional-volleyball-players-in-action-on-the-open-air-court.jpg?ver=6"
+    },
+    {
+        "name": "Cricket",
+        "tournament": "ICC",
+        "date": "10th janu- 20janu",
+        "country": "India",
+        "img": "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/08/Bangladesh-New-Zealand.png?compress=true&quality=80&w=800&dpr=2.6"
+    },
+    {
+        "name": "Golf",
+        "tournament": "Open Champions",
+        "date": "10th janu- 20janu",
+        "country": "United States",
+        "img": "https://www.gannett-cdn.com/presto/2021/05/05/NOKL/0f252644-c536-464d-a35b-dcc8ce1e366b-_MGL5697.jpg?crop=2860,1609,x0,y293&width=2860&height=1609&format=pjpg&auto=webp"
+    },
+    {
+        "name": "Tennis",
+        "tournament": "Australian Open",
+        "date": "10th janu- 20janu",
+        "country": "Turkey",
+        "img": "https://www.rl360.com/top10/images/tennistournaments/doubles-tennis-tournament.jpg"
+    },
+    {
+        "name": "Running",
+        "tournament": "Cursa El Corte Ingles",
+        "date": "10th janu- 20janu",
+        "country": "United Kingdom",
+        "img": "https://iadsb.tmgrup.com.tr/426655/0/0/0/0/1000/666?u=https://idsb.tmgrup.com.tr/2017/07/11/1499801591730.jpg"
+    },
+    {
+        "name": "Boxing",
+        "tournament": "World Boxing Association (WBA)",
+        "date": "10th janu- 20janu",
+        "country": "Spain",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRRRLuJ3qhPUGmzbUdJ7XCRzjGyiCCscoHQ&usqp=CAU"
+    },
+    {
+        "name": "Swimming",
+        "tournament": "Olympics",
+        "date": "10th janu- 20janu",
+        "country": "Chine",
+        "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg"
+    },
+    {
+        "name": "Ice skating",
+        "tournament": "Adagio Pairs",
+        "date": "10th janu- 20janu",
+        "country": "Franch",
+        "img": "https://a0.muscache.com/pictures/e1a10a82-696f-40ff-9bda-256ea132f462.jpg"
     }
 ]

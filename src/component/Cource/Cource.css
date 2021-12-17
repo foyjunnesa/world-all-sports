@@ -2,5 +2,13 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
-    background-color: rgba(255, 255, 0, 0.371);
+    margin: 30px;
 }
+
+
+
+.back-ground{
+    background-image:linear-gradient(to right, black , rgb(196, 162, 162)) ;
+}
+
+

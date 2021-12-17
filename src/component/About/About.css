@@ -1,0 +1,18 @@
+.address-name{
+    background-image: url(https://wallpaperaccess.com/full/4567368.jpg);
+    padding: 320px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'monospace';
+    color: white;
+}
+
+.address-name h1{
+color: red;
+font-family: sans-serif;
+background-color: white;
+border-radius: 5px;
+padding: 5px;
+text-shadow: 2px 2px black;
+}
+

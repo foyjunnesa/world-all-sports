@@ -11,9 +11,11 @@ const Cource = () => {
             .then(data => setCourses(data))
     }, [])
     return (
-        <div>
-            <h1>Programming Coaching Center</h1>
-            <h2>Our courses: {courses.length}</h2>
+        <div className='back-ground'>
+            <div>
+                <h1 style={{ color: "red", textShadow: "1px 1px white", fontFamily: "system-ui", fontWeight: "bold" }}>WORLD ALL SPORTS</h1>
+                <h2>Our courses: {courses.length}</h2>
+            </div>
             <div className="course-container">
                 {
                     courses.map(course => <Course
