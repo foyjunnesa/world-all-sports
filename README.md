@@ -1,6 +1,6 @@
-# Programming Hero Coaching Center
+# WORLD ALL SPORTS
 
-Renowned Faculties. Limited seats. Result Oriented Classes. Registration Open. KSG is the most trusted institute having the best study material & experts. English & Hindi Medium. Excellent Faculty. Personal Attention. Daily Material. High-Quality Education. Comprehensive Material. Courses: General Studies, Test Series, Interview Guidance, Distance Learning Program.
+##Renowned Faculties. Limited seats. Result Oriented Classes. Registration Open. KSG is the most trusted institute having the best study material & experts. English & Hindi Medium. Excellent Faculty. Personal Attention. Daily Material. High-Quality Education. Comprehensive Material. Courses: General Studies, Test Series, Interview Guidance, Distance Learning Program.
 
 ## About
 Name: Programming Coaching Center.
@@ -8,7 +8,7 @@ Address: Road 104, House- 3G Building, Flat C4 & B4,Gulshan-2 ,
                 Dhaka-1212, Bangladesh. P.C. 1212, Gulshan, Dhaka.
 In the project directory, you can run:
 
-### `Contuct Us`
+## `Contuct Us`
 
 Number: 015428955
 Email: foyjunnesamayna@gmail.com
